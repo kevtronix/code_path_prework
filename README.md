@@ -4,7 +4,7 @@ This application is an exploration into IOS development. It features a simple bu
 
 
 
-[Imgur](https://i.imgur.com/iCOu01v.gifv)
+![](https://i.imgur.com/iCOu01v.gifv)
 
 # App Ideas
 
