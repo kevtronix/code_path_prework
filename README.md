@@ -3,7 +3,7 @@
 This application is an exploration into IOS development. It features a simple button that will change the background color. 
 
 
-![](https://i.imgur.com/iCOu01v.gifv)
+![](https://i.imgur.com/iCOu01v.gif)
 
 # App Ideas
 
